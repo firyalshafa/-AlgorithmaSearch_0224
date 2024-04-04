@@ -35,6 +35,8 @@ void linearsearch()
 {
     char ch;
     int ctr;
+    int item;
+
 }
 
 
