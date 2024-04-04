@@ -31,6 +31,11 @@ void input()
     }
 }
 
+void linearsearch()
+{
+
+}
+
 
 int main()
 {
