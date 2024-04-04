@@ -20,7 +20,11 @@ void input()
             cout << "\narray should have minimum 1 and maximum 20 elements. \n\n";
 
     }
-
+    // accep array elements
+    cout << "\n-----------------\n";
+    cout << "enter array elements\n";
+    cout << "----------------------\n";
+    for (i = 0; i < n; i++)
 }
 
 
