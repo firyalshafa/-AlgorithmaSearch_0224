@@ -64,6 +64,14 @@ void linearsearch()
     } while ((ch == 'y') || (ch == 'y'));
 }
 
+void display()
+{
+    cout << " array elements are:";
+    for (i = 0; < n; i++)
+        cout << arr[i] << " ";
+    cout << endl;
+}
+
 
 int main()
 {
