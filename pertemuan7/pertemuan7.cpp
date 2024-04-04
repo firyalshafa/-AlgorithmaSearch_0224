@@ -76,6 +76,7 @@ void display()
 int main()
 {
     input();
+    linearsearch();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
