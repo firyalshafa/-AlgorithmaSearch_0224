@@ -33,7 +33,7 @@ void input()
 
 void linearsearch()
 {
-
+    char ch;
 }
 
 
